@@ -60,5 +60,8 @@ print("Selisih penjualan tertinggi dan terendah: ", jual_selisih)
 
 print("Try Commit LTIK")
 
+for n in range(3):
+    print("Pengulangan", (n))
+    
 
 
