@@ -58,5 +58,7 @@ print("Penjualan Tertinggi: ", jual_tinggi)
 print("Penjualan Terendah: ", jual_rendah)
 print("Selisih penjualan tertinggi dan terendah: ", jual_selisih)
 
+print("Try Commit LTIK")
+
 
 
